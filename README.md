@@ -11,7 +11,7 @@ Software Performance Measurements on Linux with Instrumentation and Sampling
 ##### Listing sched tracepoints:
 `$perf list 'sched;*'`<br/>
 
-#### Counting Events
+#### <ins>Counting Events</ins>
 
 ##### cpu counter statistics for the specified command:
 `$perf stat command`<br/>
