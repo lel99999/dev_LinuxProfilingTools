@@ -1,6 +1,13 @@
 # dev_LinuxProfilingTools
 Software Performance Measurements on Linux with Instrumentation and Sampling 
 
+| Profiling with Different Languages |
+| --- |
+| Python: [Profiling Perf with Python](https://opensource.com/article/18/7/fun-perf-and-python) |
+| GO: [go-perf](https://github.com/aclements/go-perf) |
+| GO with flamegraphs: [flamegraphs](https://brendanjryan.com/2018/02/28/profiling-go-applications.html) |
+
+
 #### Perf
 
 ##### Listing Events
